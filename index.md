@@ -7,6 +7,7 @@
 #### [Internal Blog Post Project](/bank)
 
 churn rate analysis
+
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/6c595a4a-2247-41d1-9710-390e6521a66e" />
 
 ---
