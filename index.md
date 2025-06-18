@@ -11,8 +11,7 @@ churn rate analysis
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/real estate1.png?raw=true"/>
-![real estate1](https://github.com/user-attachments/assets/398d57d7-c8fb-4e66-a501-036635e57842)
+<img src="[images/real estate1.png?raw=true"](https://github.com/user-attachments/assets/398d57d7-c8fb-4e66-a501-036635e57842)/>
 
 Buyer Folio: Market value analyzing and visualizations in Tableau
 
