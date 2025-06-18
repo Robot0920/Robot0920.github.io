@@ -7,14 +7,14 @@
 #### [Internal Blog Post Project](/bank)
 
 churn rate analysis
-
-
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/6c595a4a-2247-41d1-9710-390e6521a66e" />
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/real estate1.png?raw=true"/>
-Buyer Folio, Real Estate
+![real estate1](https://github.com/user-attachments/assets/398d57d7-c8fb-4e66-a501-036635e57842)
+
+Buyer Folio: Market value analyzing and visualizations in Tableau
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
