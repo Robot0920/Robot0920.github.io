@@ -5,8 +5,11 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/churn rate powerbi.png?raw=true"/>
+
 churn rate analysis
+
+
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/6c595a4a-2247-41d1-9710-390e6521a66e" />
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
