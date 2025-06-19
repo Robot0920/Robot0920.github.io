@@ -23,13 +23,7 @@ Time-series Store Item Demand Forecasting
 
 This project develops a machine learning system to predict future sales demand for retail items across multiple store locations using historical sales data and time series analysis.
 
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-Buyer Folio: Market value analyzing and visualizations in Tableau
-<img width="829" alt="image" src="https://github.com/user-attachments/assets/388ac431-76cb-4f85-910d-62b650deff48" />
 
-
----
 #### [External Link Project](https://british-airways-dashboard-website.vercel.app/)
 British Airways' Review Analysis
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/6f9d6f63-37e2-483e-b93b-2c5e852815a0" />
