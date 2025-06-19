@@ -19,9 +19,9 @@ Buyer Folio: Market value analyzing and visualizations in Tableau
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/6f9d6f63-37e2-483e-b93b-2c5e852815a0" />
 
+This end-to-end analytics project implements a modern data pipeline for British Airways, covering extraction, transformation, loading, and visualization of customer review data from Air Inequality. The architecture leverages industry-standard tools and cloud services to create a robust, scalable analytics solution.
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
