@@ -12,9 +12,10 @@ churn rate analysis
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="[images/real estate1.png?raw=true"](https://github.com/user-attachments/assets/398d57d7-c8fb-4e66-a501-036635e57842)/>
 
 Buyer Folio: Market value analyzing and visualizations in Tableau
+
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/388ac431-76cb-4f85-910d-62b650deff48" />
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
