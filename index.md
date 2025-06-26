@@ -11,7 +11,7 @@ churn rate analysis
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/6c595a4a-2247-41d1-9710-390e6521a66e" />
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+
 Buyer Folio: Market value analyzing and visualizations in Tableau
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/388ac431-76cb-4f85-910d-62b650deff48" />
 
@@ -44,11 +44,7 @@ What are the top math schools in the state?
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
 
 
 
